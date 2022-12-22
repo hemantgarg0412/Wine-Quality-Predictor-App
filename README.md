@@ -2,7 +2,7 @@
 
 ## Methodology : 
 
-Data Collection  ->  Data Pre Processing   ->  Model Training   ->   Rwsult Analysis
+Data Collection  ->  Data Pre Processing   ->  Model Training   ->   Result Analysis
 
 ## Description:
 
