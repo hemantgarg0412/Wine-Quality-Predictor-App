@@ -12,7 +12,8 @@ Data Collection  ->  Data Pre Processing   ->  Model Training   ->   Result Anal
 
 ## Input/Output:
 
-![image](https://user-images.githubusercontent.com/83637284/209091781-5a7852fb-941b-4b1b-9517-34f4dd375985.png)
+![image](https://user-images.githubusercontent.com/83637284/209093371-ae73ef85-2792-49ea-80e4-a3746eb1d96c.png)
+
 
 ## Live Link:
 
@@ -20,4 +21,5 @@ https://hemantgarg0412-wine-quality-predictor-app-app-37o2m1.streamlit.app/
 
 ## Screenshot of the Interface:
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/83637284/209093121-eec21502-3801-494a-90d2-a38a776297ac.png)
+
